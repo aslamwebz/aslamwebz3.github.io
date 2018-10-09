@@ -74,16 +74,17 @@ body{
 
 #cover-text{
  width: 100%;
- color: black;
+ color: #383838;
  font-size: 1.4rem;
- max-width: 60rem;
+ max-width: 80rem;
  margin: 0 auto;
- text-align: center;
+ text-align: left;
  font-family: 'Bree Serif', serif;
+ margin-top: -50px;
 }
 
 .name{
-  color:#f64c72;
+  color:black;
 }
 
 a.work-button{
